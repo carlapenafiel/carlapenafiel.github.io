@@ -3,12 +3,6 @@ layout: page
 title: "Welcolme to my personal site!"
 ---
 
-<style>
-round-image {
-  border-radius: 50%;
-}
-</style>
-
 <img src="/assets/me.jpg" alt="Mi foto" class="round-image" width="300">
 
 
