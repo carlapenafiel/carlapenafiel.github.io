@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  <img src="/assets/me.jpg" alt="image" width="300" height="auto">
+  - {file: "/assets/me.jpg"} 
   - {file: "index.md", title: "Home"}
   - {file: "README.md", title: "About me"}
   - {file: "Academic_CV_Carla_P.pdf", title: "CV"}
