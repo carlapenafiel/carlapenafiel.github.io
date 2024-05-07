@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home", icon: home}
   - {file: "README.md", title: "About me", icon: address-card}
-  - {file: "README.md", title: "CV", icon: address-card}
+  - {file: "Academic_CV_Carla_P.pdf", title: "CV", icon: cv}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "carla.penafiel@ug.uchile.cl"}
