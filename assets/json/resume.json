@@ -1,200 +1,269 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Carla Peñafiel Messmer",
+    "label": "Lead Data Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "carla.penafiel@ug.uchile.cl",
+    "phone": "+56 9 9946 2148",
+    "url": "https://carlapenafiel.github.io",
+    "summary": "Data scientist focused on ML for operations and analytics; end-to-end delivery, stakeholder enablement and measurable business impact.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Santiago",
+      "countryCode": "CL",
+      "region": "RM"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "carlapenafiel",
+        "url": "https://github.com/carlapenafiel"
       }
+      /* ,{
+        "network": "LinkedIn",
+        "username": "TODO",
+        "url": "https://www.linkedin.com/in/TU-HANDLE/"
+      } */
     ]
   },
+
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Bain & Company",
+      "position": "Lead Data Scientist",
+      "url": "https://www.bain.com/",
+      "startDate": "2021-01-01",
+      "endDate": "",
+      "summary": "Advanced analytics for operations and growth; end-to-end ML workflows; stakeholder enablement.",
+      "highlights": [
+        "TODO: agrega 2–3 métricas (p.ej., reduje p95 42%, aceleré time-to-insight 3x, ahorro anual US$X)."
+      ]
+    },
+    {
+      "name": "Center for Public Systems (CSP), University of Chile",
+      "position": "Research Assistant",
+      "url": "https://www.csp.uchile.cl/",
+      "startDate": "2021-01-01",
+      "endDate": "2023-12-31",
+      "summary": "Investment complementarity at home and school level in school and socio-emotional outcomes (with Jervis, P.).",
+      "highlights": []
+    },
+    {
+      "name": "Inter-American Development Bank (IDB)",
+      "position": "Co-author (Research)",
+      "url": "https://www.iadb.org/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-12-31",
+      "summary": "Attitudes and perceptions of gender among PhD holders in male-dominated fields (with Benavente, Montoya, Pino & Undurraga).",
+      "highlights": []
+    },
+    {
+      "name": "ESCP Business School",
+      "position": "Research Assistant",
+      "url": "https://www.escp.eu/",
+      "startDate": "2022-01-01",
+      "endDate": "2022-12-31",
+      "summary": "PropTech Global Trends 2022. Annual Barometer (with Pérez & Noseworthy).",
+      "highlights": []
+    },
+    {
+      "name": "University of Chile",
+      "position": "Co-author (Research)",
+      "url": "https://www.uchile.cl/",
+      "startDate": "2021-01-01",
+      "endDate": "",
+      "summary": "Gender gaps in education (with Mizala & Undurraga).",
+      "highlights": []
+    },
+    {
+      "name": "J-PAL Latin America & the Caribbean",
+      "position": "Research Assistant",
+      "url": "https://www.povertyactionlab.org/",
+      "startDate": "2020-01-01",
+      "endDate": "2021-12-31",
+      "summary": "Information Frictions in Mortgage Refinancing (with Bhattacharya, Cuesta, Illanes, Montoya & Undurraga).",
+      "highlights": []
+    },
+    {
+      "name": "University of Chile",
+      "position": "Research Assistant",
+      "url": "https://www.uchile.cl/",
+      "startDate": "2020-01-01",
+      "endDate": "2021-12-31",
+      "summary": "Life in pandemic: longitudinal study on social learning of impacts and responses (with Aceituno, Duarte, Palma & Valenzuela).",
+      "highlights": []
+    },
+    {
+      "name": "Millennium Institute for Market Imperfections and Public Policy (MIPP)",
+      "position": "Research Assistant",
+      "url": "https://mipp.cl/",
+      "startDate": "2020-01-01",
+      "endDate": "2021-12-31",
+      "summary": "First 1,000 days: types and quality of child care in Chile and associations with child development (with Abufhele, Jervis & Narea).",
+      "highlights": []
+    },
+    {
+      "name": "COPEC (Chilean Petroleum Company)",
+      "position": "Internship II — Credit Analyst",
+      "url": "https://www.copec.cl/",
+      "startDate": "2020-01-01",
+      "endDate": "2020-12-31",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Santander Bank of Chile",
+      "position": "Internship I — Data Analyst",
+      "url": "https://www.santander.cl/",
+      "startDate": "2019-01-01",
+      "endDate": "2019-12-31",
+      "summary": "",
+      "highlights": []
+    },
+
+    /* Teaching (puedes dejarlas como entradas de “work” o moverlas a “volunteer” si prefieres) */
+    {
+      "name": "University of Chile — MAGCEA",
+      "position": "Graduate Workshop on Applied Economics (Instructor)",
+      "url": "https://www.uchile.cl/",
+      "startDate": "2023-01-01",
+      "endDate": "2024-12-31",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "University of Chile — MBA",
+      "position": "Graduate Economics (Lecturer)",
+      "url": "https://www.uchile.cl/",
+      "startDate": "2021-01-01",
+      "endDate": "2023-12-31",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "University of Chile",
+      "position": "Teaching Assistant (Statistics / Economics / Macroeconomics / IE Workshop)",
+      "url": "https://www.uchile.cl/",
+      "startDate": "2018-01-01",
+      "endDate": "2021-12-31",
+      "summary": "",
+      "highlights": []
     }
   ],
+
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Master in Applied Economics (UChile)",
+      "position": "Founder — Mentoring Program",
+      "startDate": "2021-01-01",
+      "endDate": "2023-12-31",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Corporación Niñas Pro",
+      "position": "Volunteer",
+      "startDate": "2019-01-01",
+      "endDate": "2022-12-31",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Natural and Exact Sciences Program (UChile)",
+      "position": "Curricular Innovation Committee — Member",
+      "startDate": "2015-01-01",
+      "endDate": "2015-12-31",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Pehuenche Community",
+      "position": "Volunteer",
+      "startDate": "2013-01-01",
+      "endDate": "2013-12-31",
+      "summary": "",
+      "highlights": []
     }
   ],
+
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Chile",
+      "area": "Economics",
+      "studyType": "M.A.",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
+      "score": "",
+      "url": "https://www.econ.uchile.cl/",
+      "courses": [],
+      "summary": "Thesis: Gender conditions, labor market and child abuse in Chile (Honors)."
+    },
+    {
+      "institution": "University of Chile",
+      "area": "Industrial Engineering",
+      "studyType": "B.S.",
+      "startDate": "2017-01-01",
+      "endDate": "2023-12-31",
+      "score": "",
+      "url": "https://www.uchile.cl/",
+      "courses": [],
+      "summary": "Honors."
+    },
+    {
+      "institution": "University of Chile",
+      "area": "Natural and Exact Sciences",
+      "studyType": "B.S.",
+      "startDate": "2015-01-01",
+      "endDate": "2017-12-31",
+      "score": "",
+      "url": "https://www.uchile.cl/",
+      "courses": [],
+      "summary": ""
     }
   ],
+
   "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+    { "title": "Honor Student — Master in Applied Economics", "date": "2023-01-01", "awarder": "University of Chile", "url": "", "summary": "" },
+    { "title": "Honor Student — Faculty of Physical and Mathematical Sciences", "date": "2019-01-01", "awarder": "University of Chile", "url": "", "summary": "" },
+    { "title": "Women’s Scholarship in Economics and Science (M.A. Economics)", "date": "2020-01-01", "awarder": "University of Chile", "url": "", "summary": "" },
+    { "title": "Bicentennial Scholarship", "date": "2015-01-01", "awarder": "Ministry of Education", "url": "", "summary": "" },
+    { "title": "President of the Republic Scholarship", "date": "2015-01-01", "awarder": "Ministry of Education", "url": "", "summary": "" }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Everyday life during the COVID-19 pandemic in Chile: Modes of feeling, generation and gender",
+      "publisher": "In: Pandemia y Crisis",
+      "releaseDate": "2022-01-01",
+      "url": "",
+      "summary": "Book chapter (co-author)."
     }
   ],
+
   "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
+    { "name": "Machine Learning", "level": "", "keywords": ["Python", "PyTorch", "XGBoost", "scikit-learn"] },
+    { "name": "Data Engineering", "level": "", "keywords": ["SQL", "Airflow", "Pandas", "ETL"] },
+    { "name": "Visualization", "level": "", "keywords": ["Plotly", "Dash", "matplotlib"] },
+    { "name": "General", "level": "", "keywords": ["Git", "Excel"] }
   ],
+
   "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
+    { "language": "Spanish", "fluency": "Native" },
+    { "language": "English", "fluency": "Professional" },
+    { "language": "Portuguese", "fluency": "Conversational" }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+
   "projects": [
+    /* Opcional; añade si quieres mostrar un proyecto clave
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Newsletter Generation Agents",
+      "summary": "Multi-agent newsletter pipeline with QA reviewer and designer integration.",
+      "highlights": [],
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "url": "https://github.com/TU-REPO"
     }
+    */
   ]
 }
