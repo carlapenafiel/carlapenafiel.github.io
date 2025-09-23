@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://carlapenafiel.github.io/sitemap.xml
