@@ -6,7 +6,7 @@ subtitle: More about me (journey, values & fun facts)
 
 profile:
   align: left
-  image: prof_pic.jpg            # use the same headshot at assets/img/prof_pic.jpg
+  image: assets/img/prof_pic_carla.jpg
   image_circular: true
   more_info: >
     <p>Santiago, Chile</p>
