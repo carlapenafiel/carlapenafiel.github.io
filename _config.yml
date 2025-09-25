@@ -178,7 +178,9 @@ exclude:
   - _pages/projects.md
   - _pages/repositories.md
   - _pages/teaching.md
-  - _pages/people.md  
+  - _pages/people.md 
+  - assets/jupyter/
+  - assets/jupyter/**/*
 
 keep_files:
   - CNAME
