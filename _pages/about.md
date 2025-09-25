@@ -39,6 +39,9 @@ I’ve volunteered for years at **NiñasPro**, helping girls get started with pr
 
 If you enjoy data/ML communities, you might like <a href="https://www.reddit.com/r/datascience/" target="_blank" rel="noopener noreferrer">r/datascience</a>.
 
+<!-- Personal -->
+Outside of work, I love traveling—I’ve been lucky to visit many countries, and learning from new cultures keeps me curious and grounded. I’m a big fan of Pilates and the gym, and I recharge by spending time with my friends.
+
 <p>
   <a class="btn" href="{{ '/cv/' | relative_url }}">View CV</a>
   <a class="btn" href="{{ '/assets/pdf/Carla-Penafiel-CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download CV (PDF)</a>
