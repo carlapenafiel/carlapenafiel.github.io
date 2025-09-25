@@ -3,32 +3,142 @@
   contents:
     - title: "M.A. in Economics"
       institution: "University of Chile"
-      year: "2020 - 2023"
+      year: "2020 – 2023"
       description: |
-        Thesis: “Gender conditions, labor market and child abuse in Chile” (Honors)
+        Thesis: “Gender conditions, labor market and child abuse in Chile” (Honors).
     - title: "B.S. in Industrial Engineering"
       institution: "University of Chile"
-      year: "2017 - 2023"
+      year: "2017 – 2023"
     - title: "B.S. in Natural and Exact Sciences"
       institution: "University of Chile"
-      year: "2015 - 2017"
+      year: "2015 – 2017"
 
 - title: "Experience"
   type: time_table
   contents:
     - title: "Lead Data Scientist"
       institution: "Bain & Company"
-      year: "2021 - Present"
+      year: "2021 – Present"
+      description: |
+        Advanced analytics for operations and growth; end-to-end ML workflows; 
+        stakeholder enablement.
     - title: "Research Assistant"
-      institution: "Center for Public Systems, UChile"
-      year: "2021 - 2023"
-    - title: "Research Collaborator"
-      institution: "IDB, J-PAL, MIPP, ESCP"
-      year: "2020 - 2022"
+      institution: "Center for Public Systems (CSP), University of Chile"
+      year: "2021 – 2023"
+      description: |
+        Investment complementarity at home and school level in school and socio-emotional outcomes (with Jervis, P.).
+    - title: "Co-author (Research)"
+      institution: "Inter-American Development Bank (IDB)"
+      year: "2021 – 2022"
+      description: |
+        Attitudes and perceptions of gender among PhD holders in male-dominated fields 
+        (with Benavente, Montoya, Pino & Undurraga).
+    - title: "Research Assistant"
+      institution: "ESCP Business School"
+      year: "2022"
+      description: |
+        PropTech Global Trends 2022 — Annual Barometer (with Pérez & Noseworthy).
+    - title: "Co-author (Research)"
+      institution: "University of Chile"
+      year: "2021 – Present"
+      description: |
+        Gender gaps in education (with Mizala & Undurraga).
+    - title: "Research Assistant"
+      institution: "J-PAL Latin America & the Caribbean"
+      year: "2020 – 2021"
+      description: |
+        Information Frictions in Mortgage Refinancing 
+        (with Bhattacharya, Cuesta, Illanes, Montoya & Undurraga).
+    - title: "Research Assistant"
+      institution: "University of Chile"
+      year: "2020 – 2021"
+      description: |
+        Life in pandemic: longitudinal study on social learning of impacts and responses 
+        (with Aceituno, Duarte, Palma & Valenzuela).
+    - title: "Research Assistant"
+      institution: "Millennium Institute for Market Imperfections and Public Policy (MIPP)"
+      year: "2020 – 2021"
+      description: |
+        First 1,000 days: types and quality of child care in Chile and associations with child development 
+        (with Abufhele, Jervis & Narea).
+    - title: "Internship II — Credit Analyst"
+      institution: "COPEC (Chilean Petroleum Company)"
+      year: "2020"
+    - title: "Internship I — Data Analyst"
+      institution: "Santander Bank of Chile"
+      year: "2019"
+
+- title: "Teaching"
+  type: time_table
+  contents:
+    - title: "Graduate Workshop on Applied Economics — Instructor"
+      institution: "University of Chile — MAGCEA"
+      year: "2023 – 2024"
+    - title: "Graduate Economics — Lecturer"
+      institution: "University of Chile — MBA"
+      year: "2021 – 2023"
+    - title: "Teaching Assistant (Statistics, Economics, Macroeconomics, IE Workshop)"
+      institution: "University of Chile"
+      year: "2018 – 2021"
+
+- title: "Volunteer"
+  type: time_table
+  contents:
+    - title: "Founder — Mentoring Program"
+      institution: "Master in Applied Economics (UChile)"
+      year: "2021 – 2023"
+    - title: "Volunteer"
+      institution: "Corporación NiñasPro"
+      year: "2019 – 2022"
+    - title: "Curricular Innovation Committee — Member"
+      institution: "Natural and Exact Sciences Program (UChile)"
+      year: "2015"
+    - title: "Volunteer"
+      institution: "Pehuenche Community"
+      year: "2013"
+
+- title: "Publications"
+  type: list
+  contents:
+    - "Everyday life during the COVID-19 pandemic in Chile: Modes of feeling, generation and gender. In *Pandemia y Crisis*, 2022. (Book chapter, co-author)."
 
 - title: "Honors and Awards"
   type: list
   contents:
-    - "Honor Student of Master in Applied Economics - University of Chile, 2023"
-    - "Women’s Scholarship in Economics and Science - University of Chile, 2020–2022"
-    - "President of the Republic Scholarship, Ministry of Education, 2015–2018"
+    - "Honor Student — Master in Applied Economics, University of Chile, 2023."
+    - "Honor Student — Faculty of Physical and Mathematical Sciences, University of Chile, 2019."
+    - "Women’s Scholarship in Economics and Science (M.A. Economics), University of Chile, 2020–2022."
+    - "Bicentennial Scholarship, Ministry of Education, 2015."
+    - "President of the Republic Scholarship, Ministry of Education, 2015."
+
+- title: "Skills"
+  type: nested_list
+  contents:
+    - title: "Machine Learning"
+      items:
+        - "Python, PyTorch, XGBoost, scikit-learn"
+    - title: "Data Engineering"
+      items:
+        - "SQL, Pandas, ETL"
+    - title: "Visualization"
+      items:
+        - "Plotly, Streamlit, matplotlib"
+    - title: "General"
+      items:
+        - "Git, Excel"
+
+- title: "Languages"
+  type: list
+  contents:
+    - "Spanish — Native"
+    - "English — Professional"
+    - "Portuguese — Conversational"
+
+# (Opcional) Proyectos destacados si quieres mostrarlos:
+# - title: "Projects"
+#   type: time_table
+#   contents:
+#     - title: "Newsletter Generation Agents"
+#       institution: ""
+#       year: "2025 – Present"
+#       description: "Multi-agent pipeline that outputs a designer-ready HTML newsletter with QA and templating."
