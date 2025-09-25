@@ -13,8 +13,8 @@ profile:
     <p><a href="mailto:carla.penafiel@ug.uchile.cl">carla.penafiel@ug.uchile.cl</a></p>
     <p><a href="https://carlapenafiel.github.io" target="_blank" rel="noopener noreferrer">carlapenafiel.github.io</a></p>
 
-selected_papers: true
-social: true
+selected_papers: false
+social: false
 
 announcements:
   enabled: false
