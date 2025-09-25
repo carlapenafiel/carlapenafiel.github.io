@@ -179,8 +179,7 @@ exclude:
   - _pages/repositories.md
   - _pages/teaching.md
   - _pages/people.md  
-  - assets/jupyter/
-  - assets/jupyter/**/*
+
 keep_files:
   - CNAME
   - .nojekyll
@@ -193,7 +192,7 @@ plugins:
   - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
-  # - jekyll-jupyter-notebook   # <-- desactivado
+  - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-regex-replace
