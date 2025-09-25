@@ -6,7 +6,7 @@ subtitle: Lead Data Scientist — Bain & Company
 
 profile:
   align: right
-  image: assets/img/prof_pic_carla.jpg           
+  image: prof_pic_carla.jpg           
   image_circular: true
   more_info: >
     <p>Santiago, Chile</p>
