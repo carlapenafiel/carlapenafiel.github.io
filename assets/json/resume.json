@@ -36,9 +36,6 @@
       "startDate": "2021-01-01",
       "endDate": "",
       "summary": "Advanced analytics for operations and growth; end-to-end ML workflows; stakeholder enablement.",
-      "highlights": [
-        "TODO: agrega 2–3 métricas (p.ej., reduje p95 42%, aceleré time-to-insight 3x, ahorro anual US$X)."
-      ]
     },
     {
       "name": "Center for Public Systems (CSP), University of Chile",
@@ -243,8 +240,8 @@
 
   "skills": [
     { "name": "Machine Learning", "level": "", "keywords": ["Python", "PyTorch", "XGBoost", "scikit-learn"] },
-    { "name": "Data Engineering", "level": "", "keywords": ["SQL", "Airflow", "Pandas", "ETL"] },
-    { "name": "Visualization", "level": "", "keywords": ["Plotly", "Dash", "matplotlib"] },
+    { "name": "Data Engineering", "level": "", "keywords": ["SQL", "Pandas", "ETL"] },
+    { "name": "Visualization", "level": "", "keywords": ["Plotly", "Streamlit", "matplotlib"] },
     { "name": "General", "level": "", "keywords": ["Git", "Excel"] }
   ],
 
