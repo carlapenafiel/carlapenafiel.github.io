@@ -2,6 +2,7 @@
 layout: project
 title: Pricing & Elasticity — Chemicals, Gas & Insurance
 category: work
+img: assets/img/pricing.jpg
 importance: 2
 tags: [Pricing, Elasticity, Forecasting, Optimization, Pyomo, LightGBM, Scenario Planning, NLP, Streamlit]
 ---
