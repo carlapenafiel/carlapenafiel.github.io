@@ -1,10 +1,9 @@
 ---
-layout: project
-title: Fraud & Anomaly Detection — Banking/Insurance & Water Utilities
+layout: page
+title:  Fraud & Anomaly Detection — Banking/Insurance & Water Utilities
 category: work
 importance: 1
 tags: [ML, LightGBM, Anomaly Detection, IsolationForest, Clustering, Seasonality, NLP, BETO, Streamlit, APIs]
-# image: /assets/img/projects/fraud.jpg  # (optional)
 ---
 
 **V1 · Banking/Insurance — Fraud Probability (LightGBM + NLP)**  
