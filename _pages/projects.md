@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description:Most projects here are client work under confidentiality agreements. I share concise summaries and synthetic demos instead of source code, since properly anonymizing production code is time-consuming and often not feasible.
+description: Most projects here are client work under confidentiality agreements. I share concise summaries and synthetic demos instead of source code, since properly anonymizing production code is time-consuming and often not feasible
 nav: true
 nav_order: 3
 display_categories: [work]
