@@ -1,12 +1,11 @@
 ---
-layout: project
+layout: page
 title: Pricing & Elasticity — Chemicals, Gas & Insurance
 category: work
 img: assets/img/pricing.jpg
 importance: 2
 tags: [Pricing, Elasticity, Forecasting, Optimization, Pyomo, LightGBM, Scenario Planning, NLP, Streamlit]
 ---
-
 
 **Overview**  
 Built **price–demand elasticity models** and a **price recommender** to simulate scenarios and forecast demand, revenue, and margin across chemicals, gas, and insurance.  
