@@ -44,5 +44,4 @@ Outside of work, I love traveling—I’ve been lucky to visit many countries, a
 
 <p>
   <a class="btn" href="{{ '/cv/' | relative_url }}">View CV</a>
-  <a class="btn" href="{{ '/assets/pdf/Carla-Penafiel-CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download CV (PDF)</a>
 </p>
