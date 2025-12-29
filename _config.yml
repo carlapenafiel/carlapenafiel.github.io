@@ -106,8 +106,7 @@ external_sources: []
 # Social icons shown on About and footer (se integran con tu page)
 social:
   - { icon: "fa-brands fa-github",      label: "GitHub",         link: "https://github.com/carlapenafiel" }
-  - { icon: "fa-brands fa-linkedin",    label: "LinkedIn",       link: "https://www.linkedin.com/in/REPLACE_ME" }   # TODO
-  - { icon: "ai ai-google-scholar",     label: "Google Scholar", link: "https://scholar.google.com/citations?user=REPLACE_ME" }  # TODO
+  - { icon: "fa-brands fa-linkedin",    label: "LinkedIn",       link: "https://www.linkedin.com/in/carlapenafiel" }   # TODO
   - { icon: "fa-solid fa-envelope",     label: "Email",          link: "mailto:carla.penafiel@ug.uchile.cl" }
   - { icon: "fa-solid fa-globe",        label: "Website",        link: "https://carlapenafiel.github.io" }
 
@@ -321,7 +320,7 @@ enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
-enable_navbar_social: false # enables displaying social links in the navbar on the about page
+enable_navbar_social: true # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
