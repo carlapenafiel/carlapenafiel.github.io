@@ -10,6 +10,7 @@ profile:
   image_circular: true
   more_info: >
     <p>Santiago, Chile</p>
+    <p><a href="mailto:carla.penafiel@columbia.edu">carla.penafiel@ug.uchile.cl</a></p>
     <p><a href="mailto:carla.penafiel@ug.uchile.cl">carla.penafiel@ug.uchile.cl</a></p>
     <p><a href="https://carlapenafiel.github.io" target="_blank" rel="noopener noreferrer">carlapenafiel.github.io</a></p>
 
@@ -28,7 +29,8 @@ latest_posts:
 ---
 
 <!-- Short bio (near header) -->
-I’m **Carla Peñafiel Messmer**, an engineer–economist turned **Lead Data Scientist**. I build end-to-end analytics and ML systems—from data engineering and modeling to production and operator-facing visualization—so teams can make faster, better decisions. My motto: **don’t let anything define you**.
+
+I’m **Carla Peñafiel Messmer**, an engineer–economist and M.S. Data Science student at Columbia University, where I expect to graduate in January 2028. Before Columbia, I worked as a Lead Data Scientist at Bain & Company, where I spent four years building end-to-end analytics and ML systems—from data engineering and modeling to production and operator-facing visualization—so teams can make faster, better decisions. My motto: **don’t let anything define you**.
 
 <!-- Longer story -->
 I almost failed my first-year programming course, and now I program for a living. I once planned on academia (I shaped my whole degree path for a PhD), but I fell in love with **advanced analytics** and **machine learning**—and these days I’m having a lot of fun exploring **agentic** workflows, too. I make choices with equal parts rigor and intuition; I trust my gut when it points to what I truly want.
