@@ -1,161 +1,246 @@
 - title: "Education"
   type: time_table
   contents:
+
+    - title: "M.S. in Data Science"
+      institution: "Columbia University"
+      year: "2026 – 2027"
+      description: |
+        DSI Scholar — Data Science Institute, “Mapping Children’s Vulnerability” with Professor Dale.
+        Expected graduation: December 2027.
+
     - title: "M.A. in Economics"
       institution: "University of Chile"
       year: "2020 – 2023"
       description: |
-        Thesis: “Gender conditions, labor market and child abuse in Chile” (Honors).
+        Class Rank: 2nd of 21. Thesis: “Gender conditions, labor market and child abuse in Chile” (Honors).
+
     - title: "B.S. in Industrial Engineering"
       institution: "University of Chile"
       year: "2017 – 2023"
+      description: |
+        Class Rank: 1st of 174 (Honors).
+
     - title: "B.S. in Natural and Exact Sciences"
       institution: "University of Chile"
       year: "2015 – 2017"
 
+
 - title: "Experience"
   type: time_table
   contents:
+
     - title: "Lead Data Scientist"
       institution: "Bain & Company"
-      year: "2021 – Present"
+      year: "2025 – 2026"
       description: |
-        Advanced analytics for operations and growth; end-to-end ML workflows; 
-        stakeholder enablement.
-    - title: "Research Assistant"
-      institution: "Center for Public Systems (CSP), University of Chile"
+        Led data science workstreams across pricing, optimization, fraud detection, and predictive analytics for clients across Latin America, the U.S., and the Caribbean.
+        Built a marketing mix model for an Argentine wine company and optimization models for mining operations in Chile, including truck fleet optimization.
+        Developed price–demand elasticity models and pricing recommenders, forecasting the impact of pricing decisions on demand, revenue, and margin.
+
+    - title: "Senior Data Scientist"
+      institution: "Bain & Company"
+      year: "2023 – 2025"
+      description: |
+        Built price–demand elasticity models and scenario-based pricing recommenders across chemicals, gas, and insurance, forecasting the impact of pricing decisions on demand, revenue, and margin.
+        Developed fraud-detection and early-warning solutions for banking, insurance, and utilities using LightGBM, NLP/BETO embeddings, anomaly detection, clustering, and supervised learning.
+        Built an insurance pricing optimization framework using LightGBM and Pyomo to maximize portfolio margin subject to renewal-rate constraints.
+
+    - title: "Data Scientist"
+      institution: "Bain & Company"
       year: "2021 – 2023"
       description: |
-        Investment complementarity at home and school level in school and socio-emotional outcomes (with Jervis, P.).
-    - title: "Co-author (Research)"
+        Developed pricing, demand-elasticity, forecasting, and marketing-mix models for clients across Chile, Brazil, Mexico, and Argentina.
+        Developed optimization solutions for gas operations, improving operational efficiency and resource allocation.
+
+    - title: "Research Consultant"
       institution: "Inter-American Development Bank (IDB)"
       year: "2021 – 2022"
       description: |
-        Attitudes and perceptions of gender among PhD holders in male-dominated fields 
-        (with Benavente, Montoya, Pino & Undurraga).
-    - title: "Research Assistant"
-      institution: "ESCP Business School"
-      year: "2022"
-      description: |
-        PropTech Global Trends 2022 — Annual Barometer (with Pérez & Noseworthy).
-    - title: "Co-author (Research)"
-      institution: "University of Chile"
-      year: "2021 – 2023"
-      description: |
-        Gender gaps in education (with Mizala & Undurraga).
+        Conducted quantitative research on gender attitudes and perceptions among PhD holders in male-dominated fields, contributing to a co-authored research study with Benavente, Montoya, Pino & Undurraga.
+
     - title: "Research Assistant"
       institution: "J-PAL Latin America & the Caribbean"
       year: "2020 – 2021"
       description: |
-        Information Frictions in Mortgage Refinancing 
-        (with Bhattacharya, Cuesta, Illanes, Montoya & Undurraga).
+        Supported the design, implementation, and analysis of a randomized controlled trial on information frictions in mortgage refinancing in Chile.
+        Prepared and processed experimental data, contributed throughout the RCT implementation, and designed the testing statement used in the experiment.
+        The project resulted in “Frictions in Mortgage Refinancing: Evidence from Chile,” with Bhattacharya, Cuesta, Illanes, Montoya & Undurraga.
+
+    - title: "Research Assistant"
+      institution: "University of Chile"
+      year: "2021 – 2023"
+      description: |
+        Research on gender gaps in education, with Mizala & Undurraga.
+
     - title: "Research Assistant"
       institution: "University of Chile"
       year: "2020 – 2021"
       description: |
-        Life in pandemic: longitudinal study on social learning of impacts and responses 
-        (with Aceituno, Duarte, Palma & Valenzuela).
+        Longitudinal research on life during the COVID-19 pandemic, including social learning of impacts and responses, with Aceituno, Duarte, Palma & Valenzuela.
+
     - title: "Research Assistant"
       institution: "Millennium Institute for Market Imperfections and Public Policy (MIPP)"
       year: "2020 – 2021"
       description: |
-        First 1,000 days: types and quality of child care in Chile and associations with child development 
-        (with Abufhele, Jervis & Narea).
+        Research on the first 1,000 days of life, including types and quality of child care in Chile and associations with child development, with Abufhele, Jervis & Narea.
+
+    - title: "Research Assistant"
+      institution: "Center for Public Systems (CSP), University of Chile"
+      year: "2021 – 2023"
+      description: |
+        Research on investment complementarity at the home and school levels and its relationship with academic and socio-emotional outcomes, with Jervis, P.
+
+    - title: "Research Assistant"
+      institution: "ESCP Business School"
+      year: "2022"
+      description: |
+        Contributed to “PropTech Global Trends 2022 — Annual Barometer,” with Pérez & Noseworthy.
+
     - title: "Internship II — Credit Analyst"
       institution: "COPEC (Chilean Petroleum Company)"
       year: "2020"
+
     - title: "Internship I — Data Analyst"
       institution: "Santander Bank of Chile"
       year: "2019"
 
+
 - title: "Teaching"
   type: time_table
   contents:
+
     - title: "Graduate Workshop on Applied Economics — Instructor"
       institution: "University of Chile — MAGCEA"
       year: "2023 – 2025"
+      description: |
+        Graduate-level course in applied economics.
+
     - title: "Graduate Economics — Lecturer"
       institution: "University of Chile — MBA"
-      year: "2021 – 2023"
-    - title: "Teaching Assistant (Statistics, Economics, Macroeconomics, IE Workshop)"
+      year: "2021 – 2024"
+      description: |
+        Graduate-level economics instruction.
+
+    - title: "Teaching Assistant — Statistics"
+      institution: "University of Chile"
+      year: "2019 – 2021"
+      description: |
+        Undergraduate Statistics.
+
+    - title: "Teaching Assistant — Economics"
+      institution: "University of Chile"
+      year: "2020"
+      description: |
+        Undergraduate Economics.
+
+    - title: "Teaching Assistant — Macroeconomics"
+      institution: "University of Chile"
+      year: "2019"
+      description: |
+        Undergraduate Macroeconomics.
+
+    - title: "Teaching Assistant — Industrial Engineering Workshop"
       institution: "University of Chile"
       year: "2018 – 2021"
+
 
 - title: "Volunteer & Leadership"
   type: time_table
   contents:
-    - title: "Founder — Mentoring Program"
-      institution: "Master in Applied Economics (University of Chile)"
-      year: "2021 – 2023"
 
-    - title: "Active Member (Volunteer 2019–2022)"
+    - title: "Founder — Mentoring Program"
+      institution: "Master in Applied Economics, University of Chile"
+      year: "2021 – 2023"
+      description: |
+        Founded and organized a mentoring program for M.A. in Economics students.
+
+    - title: "Active Member"
       institution: "Corporación Niñas Pro"
       year: "2019 – Present"
-      description: "Supporting educational programs that teach programming and digital skills to girls and adolescents and promote STEM vocations in Chile."
+      description: |
+        Volunteer from 2019–2022; member since 2022. Supporting educational programs that teach programming and digital skills to girls and adolescents and promote STEM vocations in Chile.
 
     - title: "Volunteer Project Lead — Dona tu PC"
-      institution: "Community initiative (Chile)"
+      institution: "Community initiative, Chile"
       year: "2020"
-      description: "Coordinated the donation, repair, and redistribution of computers to students and families during the COVID-19 pandemic."
+      description: |
+        Coordinated the donation, repair, and redistribution of computers to students and families during the COVID-19 pandemic.
 
     - title: "Curricular Innovation Committee — Member"
-      institution: "Natural and Exact Sciences Program (University of Chile)"
+      institution: "Natural and Exact Sciences Program, University of Chile"
       year: "2015"
 
     - title: "Volunteer"
       institution: "Pehuenche Community"
       year: "2013"
 
+
 - title: "Publications"
   type: list
   contents:
-    - "Everyday life during the COVID-19 pandemic in Chile: Modes of feeling, generation and gender. In Pandemia y Crisis, 2022. (Book chapter, co-author)."
-    -  Manuscript in preparation for journal submission: “Genderconditions, labormarket and child abuse in Chile”, with P. Jervis.
+
+    - "Everyday life during the COVID-19 pandemic in Chile: Modes of feeling, generation and gender. In Pandemia y Crisis, 2022. Book chapter, co-author."
+
+    - "Manuscript in preparation for journal submission: “Gender conditions, labor market and child abuse in Chile”, with P. Jervis."
+
+    - "Frictions in Mortgage Refinancing: Evidence from Chile. Research project developed through J-PAL Latin America & the Caribbean."
+
+
 - title: "Honors and Awards"
   type: list
   contents:
-    - "Honor Student — Master in Applied Economics, University of Chile, 2023."
+
+    - "Honor Student — M.A. in Economics, University of Chile, 2023."
+
     - "Honor Student — Faculty of Physical and Mathematical Sciences, University of Chile, 2019, 2020, 2021 & 2022."
-    - "Women’s Scholarship in Economics and Science (M.A. Economics), University of Chile, 2020–2022."
+
+    - "Women's Scholarship in Economics and Science (M.A. Economics), University of Chile, 2020–2022."
+
     - "Bicentennial Scholarship, Ministry of Education, 2015."
+
     - "President of the Republic Scholarship, Ministry of Education, 2015."
+
 
 - title: "Skills"
   type: nested_list
   contents:
+
     - title: "Machine Learning & Modeling"
       items:
-        - "Python, scikit-learn, XGBoost, statsmodels"
+        - "Python, scikit-learn, XGBoost, statsmodels, NumPy"
 
     - title: "Data Engineering & Analytics"
       items:
         - "SQL, Pandas, ETL pipelines, feature engineering, data modeling"
 
+    - title: "Econometrics & Statistical Modeling"
+      items:
+        - "Econometrics, statistical modeling, forecasting, causal inference"
+
     - title: "Optimization & Decision Support"
       items:
-        - "Pricing optimization, demand modeling, scenario analysis"
+        - "Pricing optimization, demand modeling, scenario analysis, Pyomo"
+
+    - title: "Fraud & Risk Analytics"
+      items:
+        - "Fraud detection, anomaly detection, clustering, early-warning systems, NLP/BETO embeddings"
 
     - title: "Visualization & Deployment"
       items:
-        - "Streamlit, Plotly, matplotlib"
+        - "Streamlit, Plotly, matplotlib, Power BI"
 
-    - title: "General"
+    - title: "Programming & Tools"
       items:
-        - "Git, Excel"
+        - "R, Stata, Git, Excel"
 
 
 - title: "Languages"
   type: list
   contents:
-    - "Spanish — Native"
-    - "English — Professional"
-    - "Portuguese — Professional"
 
-# (Opcional) Proyectos destacados si quieres mostrarlos:
-# - title: "Projects"
-#   type: time_table
-#   contents:
-#     - title: "Newsletter Generation Agents"
-#       institution: ""
-#       year: "2025 – Present"
-#       description: "Multi-agent pipeline that outputs a designer-ready HTML newsletter with QA and templating."
+    - "Spanish — Native"
+
+    - "English — Professional"
+
+    - "Portuguese — Professional"

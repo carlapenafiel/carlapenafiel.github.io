@@ -2,16 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: Lead Data Scientist — Bain & Company
+subtitle: M.S. Data Science @ Columbia University | Former Lead Data Scientist @ Bain & Company
 
 profile:
   align: right
   image: prof_pic_carla.jpg           
   image_circular: true
   more_info: >
-    <p>Santiago, Chile</p>
-    <p><a href="mailto:carla.penafiel@columbia.edu">carla.penafiel@ug.uchile.cl</a></p>
-    <p><a href="mailto:carla.penafiel@ug.uchile.cl">carla.penafiel@ug.uchile.cl</a></p>
+    <p>New York, NY </p>
+    <p><a href="mailto:carla.penafiel@columbia.edu">carla.penafiel@columbia.edu</a></p>
     <p><a href="https://carlapenafiel.github.io" target="_blank" rel="noopener noreferrer">carlapenafiel.github.io</a></p>
 
 selected_papers: false
@@ -30,19 +29,21 @@ latest_posts:
 
 <!-- Short bio (near header) -->
 
-I’m **Carla Peñafiel Messmer**, an engineer–economist and M.S. Data Science student at Columbia University, where I expect to graduate in January 2028. Before Columbia, I worked as a Lead Data Scientist at Bain & Company, where I spent four years building end-to-end analytics and ML systems—from data engineering and modeling to production and operator-facing visualization—so teams can make faster, better decisions. My motto: **don’t let anything define you**.
+I’m **Carla Peñafiel Messmer**, an engineer–economist and **M.S. Data Science student at Columbia University**, where I’m exploring the intersection of machine learning, econometrics, optimization, and real-world decision-making. I’m also a **DSI Scholar at Columbia’s Data Science Institute**, where I’m working on *Mapping Children’s Vulnerability* with Professor Dale.
 
-<!-- Longer story -->
-I almost failed my first-year programming course, and now I program for a living. I once planned on academia (I shaped my whole degree path for a PhD), but I fell in love with **advanced analytics** and **machine learning**—and these days I’m having a lot of fun exploring **agentic** workflows, too. I make choices with equal parts rigor and intuition; I trust my gut when it points to what I truly want.
+Before Columbia, I spent five years at **Bain & Company**, progressing from Data Scientist to Senior Data Scientist and Lead Data Scientist. I worked on end-to-end data science and advanced analytics problems across Latin America, the U.S., and the Caribbean, spanning **pricing and demand elasticity, fraud detection, forecasting, optimization, marketing mix modeling, and operational efficiency**. I particularly enjoy turning complex analytical problems into tools and models that people can actually use.
 
-A fun fact: I’m a lifelong **The Sims** fan. In an interview I shared how I like to push games to their limits—curiosity took me as far as meeting the **Grim Reaper** in-game to understand the system’s boundaries. Years later my manager told me, “we need that curiosity on the team.” It still makes me smile.
+My background sits at the intersection of **economics, data science, and business**. I hold an M.A. in Economics and a B.S. in Industrial Engineering from the University of Chile, where I graduated **1st of 174** in Industrial Engineering and **2nd of 21** in Economics. I originally thought I was heading toward academia and a Ph.D., but somewhere along the way I fell in love with advanced analytics and machine learning.
 
-I’ve volunteered for years at **NiñasPro**, helping girls get started with programming; these days I’m a partner and love organizing teams to make things happen. Current interests: ML for industrial operations, time-series forecasting, and practical data products that people actually use.
+I almost failed my first-year programming course, and now I program for a living. That experience probably explains a lot about how I approach problems: I’m curious, persistent, and not particularly afraid of things I don’t know yet. **Don’t let anything define you** is a motto I’ve carried with me for years.
 
-If you enjoy data/ML communities, you might like <a href="https://www.reddit.com/r/datascience/" target="_blank" rel="noopener noreferrer">r/datascience</a>.
+I’m currently interested in **machine learning for industrial operations, time-series forecasting, optimization, econometrics, and practical data products**. More recently, I’ve also been exploring **agentic AI workflows** and thinking about how they can change the way analytical work gets done.
 
-<!-- Personal -->
-Outside of work, I love traveling—I’ve been lucky to visit many countries, and learning from new cultures keeps me curious and grounded. I’m a big fan of Pilates and the gym, and I recharge by spending time with my friends.
+I’ve also been involved with **NiñasPro**, a Chilean nonprofit focused on encouraging girls to explore programming and STEM. I’ve volunteered with the organization for years and enjoy building teams and creating opportunities for others.
+
+A fun fact: I’m a lifelong **The Sims** fan. I once pushed the game far enough to meet the Grim Reaper just to understand what happened at the boundaries of the system. Years later, a manager told me, *“We need that curiosity on the team.”* It still makes me smile.
+
+Outside of data and work, I love **traveling, discovering new cultures, Pilates, the gym, and spending time with friends**. I’m always happy to connect with people working on interesting problems in data, ML, economics, and technology.
 
 <p>
   <a class="btn" href="{{ '/cv/' | relative_url }}">View CV</a>
