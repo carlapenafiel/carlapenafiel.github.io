@@ -2,7 +2,7 @@
 layout: page
 title: Marketing Mix Modeling — Wine Industry
 category: work
-img: assets/img/mmm.jpg
+img: assets/img/wine.png
 importance: 3
 tags: [Marketing Mix Modeling, MMM, Econometrics, Time Series, Causal Inference, Forecasting, Optimization, Python]
 ---
