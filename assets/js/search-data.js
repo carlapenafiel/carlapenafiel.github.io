@@ -49,6 +49,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/02-pricing-elasticity/";
+            },},{id: "projects-marketing-mix-modeling-wine-industry",
+          title: 'Marketing Mix Modeling — Wine Industry',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/03-mmm/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
